@@ -1,0 +1,6 @@
+{
+  "name": "Attendly",
+  "description": "Production-ready Employee Attendance Management System with clean iOS-inspired UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
